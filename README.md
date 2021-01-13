@@ -11,3 +11,8 @@ This script can be used as a "one-time only job" or migration script between two
 
 # linked repo's
 This report is strongly linked to https://github.com/pheeling/SharepointAIPULClassification/.
+
+#references
+aipclient28850 download: https://www.microsoft.com/en-us/download/details.aspx?id=53018
+(copy it into according directory to execute successful build)
+
